@@ -1,5 +1,6 @@
 <!-- docs/_sidebar.md -->
-<WLLT 2020>
-* [Home](/)
-* [Guide](guide.md "Guide Page")
-* [0622-0628](/0622-0628 "0622-0628 Learned")
+- [Home](/)
+- [Guide](guide.md "Guide Page")
+- <WLLT 2020>
+  - [0622](/2006/0622.md "0622.md")
+  - [0623](/2006/0623.md "0623.md")
