@@ -1,7 +1,11 @@
 <!-- docs/_sidebar.md -->
 - [Home](/)
 - [Guide](guide.md "Guide Page")
-- <WLLT 2020>
+- [WLLT 2020]
   - [0622](/2006/0622.md "0622.md")
   - [0623](/2006/0623.md "0623.md")
   - [0624](/2006/0624.md "0624.md")
+  - [0625](/2006/0625.md "0625.md")
+- [Deep Learning]
+  - [이론](2006/Deep%20Learning%20이론.md "이론")
+  - [실습](2006/Deep%20Learning%20실습.md "실습")
