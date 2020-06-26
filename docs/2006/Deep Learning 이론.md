@@ -8,8 +8,12 @@ https://nittaku.tistory.com/
 ## 딥러닝 관련
 https://blog.naver.com/PostList.nhn?blogId=laonple
 
+### CNN
+https://cs231n.github.io/convolutional-networks/
+
 ## 수학 관련
 https://jaejunyoo.blogspot.com/search/label/mathematics
+https://blog.naver.com/PostList.nhn?blogId=sw4r&categoryNo=0&from=postList
 
 ### Gradient Descent 복습
 [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.lzeb58ksq) <br>
@@ -26,7 +30,6 @@ Emerging Topics 1 / 2 : 35 / 40
 
 ## 용어 관련 정리
 수학적 접근 : https://sdolnote.tistory.com/category
-
 Linear Independence : https://twlab.tistory.com/24
 https://rfriend.tistory.com/163
 
