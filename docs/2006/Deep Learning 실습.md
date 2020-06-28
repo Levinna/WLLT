@@ -10,6 +10,7 @@ https://pytorch.org/tutorials/beginner/nn_tutorial.html
 4. Visualizing Models
 https://pytorch.org/tutorials/intermediate/tensorboard_tutorial.html
 
+Pytorch Lecture : https://www.youtube.com/watch?v=SKq-pmkekTk
 
 # Tensorflow
 머신러닝 코스(단기집중과정) : https://developers.google.com/machine-learning/crash-course/ml-intro

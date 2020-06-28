@@ -5,11 +5,19 @@ https://jaejunyoo.blogspot.com/2019/05/part-i.html (카카오 리포트, 초짜 
 https://zzsza.github.io/data/2017/12/27/gan/
 https://nittaku.tistory.com/
 
-## 딥러닝 관련
-https://blog.naver.com/PostList.nhn?blogId=laonple
+## 머신러닝/딥러닝 관련
+https://www.deeplearningbook.org/ <br>
+모두를 위한 머신러닝/딥러닝 강의 : https://hunkim.github.io/ml/ <br>
+https://blog.naver.com/PostList.nhn?blogId=laonple <br>
+논문으로 짚어보는 딥러닝의 맥 : https://www.edwith.org/deeplearningchoi/joinLectures/10979 <br>
+인공신경망 종류와 구조 및 개념 : https://untitledtblog.tistory.com/154?category=823331
 
 ### CNN
 https://cs231n.github.io/convolutional-networks/
+
+
+### RNN
+Memory recall / retrieval : https://human-memory.net/memory-recall-retrieval/
 
 ## 수학 관련
 https://jaejunyoo.blogspot.com/search/label/mathematics
