@@ -10,11 +10,11 @@ https://www.deeplearningbook.org/ <br>
 모두를 위한 머신러닝/딥러닝 강의 : https://hunkim.github.io/ml/ <br>
 https://blog.naver.com/PostList.nhn?blogId=laonple <br>
 논문으로 짚어보는 딥러닝의 맥 : https://www.edwith.org/deeplearningchoi/joinLectures/10979 <br>
-인공신경망 종류와 구조 및 개념 : https://untitledtblog.tistory.com/154?category=823331
+인공신경망 종류와 구조 및 개념 : https://untitledtblog.tistory.com/154?category=823331 <br>
+Udacity ML 정리 : https://bkshin.tistory.com/category/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D?page=2
 
 ### CNN
 https://cs231n.github.io/convolutional-networks/
-
 
 ### RNN
 Memory recall / retrieval : https://human-memory.net/memory-recall-retrieval/
@@ -26,6 +26,9 @@ https://blog.naver.com/PostList.nhn?blogId=sw4r&categoryNo=0&from=postList
 ### Gradient Descent 복습
 [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.lzeb58ksq) <br>
 https://jaejunyoo.blogspot.com/2017/01/backpropagation.html
+
+## Activation Function
+https://reniew.github.io/12/
 
 ## 신호처리 관련
 https://jaejunyoo.blogspot.com/2019/05/signal-processing-for-communications.html
