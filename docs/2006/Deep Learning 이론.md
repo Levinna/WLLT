@@ -47,3 +47,6 @@ https://rfriend.tistory.com/163
 Norms<br>
 L2 Norm : 
 Lp Norm : 
+
+## 논문읽기 모임 PR12
+https://github.com/taeoh-kim/pr12
