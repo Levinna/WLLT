@@ -28,7 +28,33 @@
         placeholder: {
           '/': 'Search'
         }
-      }
+      },
+      plugins: [
+        function(hook, vm) {
+          hook.doneEach(function() {
+            document.querySelectorAll(".sidebar-nav > ul > li").forEach(
+              function(node, index, nodelist) {
+                var span = document.createElement("span");
+                span.innerHTML = node.firstChild.data;
+                span.style.cursor = "pointer";
+                span.onclick = function(event) {
+                  var ul = event.target.nextElementSibling;
+                  if (ul.style.display === "none") {
+                    ul.style.display = "block";
+                  } else {
+                    ul.style.display = "none";
+                  }
+                };
+                node.firstChild.replaceWith(span);
+                node.lastChild.style.display = "none";
+            });
+            var active = document.querySelector(".sidebar-nav li.active");
+            if (active) {
+              active.parentElement.style.display = "block";
+            }
+          });
+        }
+      ]
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
@@ -38,6 +64,5 @@
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-cpp.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-css.min.js"></script>
-  <script src="//unpkg.com/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 </body>
 </html>
