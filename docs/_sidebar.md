@@ -1,5 +1,5 @@
 <!-- docs/_sidebar.md -->
-- [Home](/index.html "HOME")
+- [About]
   - [Guide](guide.md "Guide Page")
 - [WLLT 2020]
   - [2006]
