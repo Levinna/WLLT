@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 - [Home](/)
-- [Guide](guide.md "Guide Page")
+  - [Guide](guide.md "Guide Page")
 - [WLLT 2020]
   - [2006]
     - [0622](/2006/0622.md "0622.md")
