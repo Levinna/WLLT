@@ -1,6 +1,4 @@
-# Toy Project
+# Toy Project : Re-Scheduling Later
 ```
-1주차 : 이론적 복습 & PyTorch 익히기
-2주차 : 데이터 수집(MIMIC-3)
-3주차 : 실제 프로젝트 수행(1~1.5주 간)
+
 ```
