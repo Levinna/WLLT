@@ -15,3 +15,6 @@ Pytorch Lecture : https://www.youtube.com/watch?v=SKq-pmkekTk
 # Tensorflow
 머신러닝 코스(단기집중과정) : https://developers.google.com/machine-learning/crash-course/ml-intro
 문제 프레이밍 : https://developers.google.com/machine-learning/problem-framing
+
+# Dive into deep Learning
+Learn with code : http://d2l.ai/index.html
