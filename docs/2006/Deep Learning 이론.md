@@ -44,9 +44,8 @@ Emerging Topics 1 / 2 : 35 / 40
 Linear Independence : https://twlab.tistory.com/24
 https://rfriend.tistory.com/163
 
-Norms<br>
-L2 Norm : 
-Lp Norm : 
-
 ## 논문읽기 모임 PR12
 https://github.com/taeoh-kim/pr12
+
+### 
+https://analysisbugs.tistory.com/
