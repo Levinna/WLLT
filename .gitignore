@@ -1,7 +1,10 @@
 # ignore ipynb checkpoints
+.ipynb_checkpoints/
 docs/2006/Resources/.ipynb_checkpoints/
 docs/2006/Resources/data/
 docs/2007/Resources/.ipynb_checkpoints/
 docs/2007/Resources/data/
 docs/2008/Resources/.ipynb_checkpoints/
 docs/2008/Resources/data/
+docs/2009/Resources/.ipynb_checkpoints/
+docs/2009/Resources/data/
