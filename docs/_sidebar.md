@@ -61,4 +61,8 @@
 - [Deep Learning]
   - [이론](Materials/Deep%20Learning%20이론.md "이론")
   - [실습](Materials/Deep%20Learning%20실습.md "실습")
-  - [프로젝트](Materials/Toy%20Project.md "프로젝트")
+  - [프로젝트](Materials/Project.md "프로젝트")
+- [Class Materials]
+  - [Reinforcement%20Learning](Materials/RL.md "RL")
+  - [Machine%20Learning](Materials/ML.md "ML")
+  - [Advanced%20Deep%20Learning](Materials/ADL.md "ADL")
