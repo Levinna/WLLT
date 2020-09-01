@@ -35,7 +35,6 @@ https://jaejunyoo.blogspot.com/2019/05/signal-processing-for-communications.html
 
 ## 동영상 강의(한동대 머신러닝 캠프 / 9:15)
 CNN : 3:40
-https://www.youtube.com/watch?v=UY9vvd7DNCs&list=PLhicYQInZBfXlD1EsUb53pKD5p9jMWLeZ&index=4
 RNN : 2:30 / 1:50
 Emerging Topics 1 / 2 : 35 / 40
 

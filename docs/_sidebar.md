@@ -59,6 +59,6 @@
   - [2009]
     - [0901](2009/0901.md "0901.md")
 - [Deep Learning]
-  - [이론](2006/Deep%20Learning%20이론.md "이론")
-  - [실습](2006/Deep%20Learning%20실습.md "실습")
-  - [프로젝트](2006/Toy%20Project.md "프로젝트")
+  - [이론](Materials/Deep%20Learning%20이론.md "이론")
+  - [실습](Materials/Deep%20Learning%20실습.md "실습")
+  - [프로젝트](Materials/Toy%20Project.md "프로젝트")
