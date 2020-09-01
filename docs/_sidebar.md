@@ -63,6 +63,6 @@
   - [실습](Materials/Deep%20Learning%20실습.md "실습")
   - [프로젝트](Materials/Project.md "프로젝트")
 - [Class Materials]
-  - [Reinforcement%20Learning](Materials/RL.md "RL")
-  - [Machine%20Learning](Materials/ML.md "ML")
-  - [Advanced%20Deep%20Learning](Materials/ADL.md "ADL")
+  - [Reinforcement Learning](Materials/RL.md "RL")
+  - [Machine Learning](Materials/ML.md "ML")
+  - [Advanced Deep Learning](Materials/ADL.md "ADL")
