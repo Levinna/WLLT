@@ -58,6 +58,7 @@
     - [0831](2008/0831.md "0831.md")
   - [2009]
     - [0901](2009/0901.md "0901.md")
+    - [0902](2009/0902.md "0902.md")
 - [Deep Learning]
   - [이론](Materials/Deep%20Learning%20이론.md "이론")
   - [실습](Materials/Deep%20Learning%20실습.md "실습")
