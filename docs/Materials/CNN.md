@@ -16,4 +16,4 @@ https://github.com/FairyOnIce/ObjectDetectionRCNN (Tensorflow)
 [Edge Boxes](https://pdollar.github.io/files/papers/ZitnickDollarECCV14edgeBoxes.pdf) : Region Proposal 중 Selective search 다음으로 성능이 좋았던 방식
 
 # Image Segmentation Problem
-Region Proposal -> FCN -> U-Net/Dilated Convolution(Atrous Convolution)/Transposed Convolution(Deconvolution)
+Region Proposal -> FCN -> U-Net/Dilated Convolution(Atrous Convolution)/Transposed Convolution(Deconvolution) -> SegNet
