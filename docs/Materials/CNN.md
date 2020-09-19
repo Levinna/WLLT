@@ -1,3 +1,12 @@
+# Probability vs Likelihood
+Intuition : https://jjangjjong.tistory.com/41 <br>
+In python : https://yamalab.tistory.com/91?category=709317
+
+# Overview
+Different Types of Convolutions : https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215<br>
+Types of Convolution Kernels : https://towardsdatascience.com/types-of-convolution-kernels-simplified-f040cb307c37<br>
+https://www.youtube.com/watch?v=3exMAKtSGBQ
+
 # Deep CNN Networks
 conventionally Classification/Localization Problem<br>
 LeNet -> AlexNet -> ZFNet -> Inception/VGGNet -> OverFeat -> ResNet
