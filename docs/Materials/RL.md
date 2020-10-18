@@ -8,3 +8,10 @@
 #### Big guys in RL<br>
 Joel from McGill<br>
 Sergey from U.C. Berkely
+
+#### Bias and Variance
+https://www.endtoend.ai/blog/bias-variance-tradeoff-in-reinforcement-learning/ <br>
+https://ai.stackexchange.com/questions/22118/what-is-the-bias-variance-trade-off-in-reinforcement-learning
+
+#### Online and Offline and On-Policy and Off-Policy
+https://ai.stackexchange.com/questions/10474/what-is-the-relation-between-online-learning-and-on-policy-algorithms

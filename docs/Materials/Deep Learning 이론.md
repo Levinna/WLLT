@@ -51,3 +51,6 @@ https://analysisbugs.tistory.com/
 
 ## Awesome Deep Learning Papers
 https://github.com/terryum/awesome-deep-learning-papers
+
+## 한 페이지 머신러닝
+https://opentutorials.org/module/3653
