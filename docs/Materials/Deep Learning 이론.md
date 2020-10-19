@@ -54,3 +54,6 @@ https://github.com/terryum/awesome-deep-learning-papers
 
 ## 한 페이지 머신러닝
 https://opentutorials.org/module/3653
+
+## 기초 강의 유튜브
+https://www.youtube.com/user/TheEasyoung/videos
