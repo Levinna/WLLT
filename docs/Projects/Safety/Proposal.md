@@ -14,7 +14,6 @@
 
 ### 1.1.2. Mecab
 
-
 ## 1.2. 
 
 ## 1.3.
@@ -31,13 +30,7 @@ GPT 1 : https://vanche.github.io/NLP_Pretrained_Model_GPT/<br>
 https://greeksharifa.github.io/nlp(natural%20language%20processing)%20/%20rnns/2019/08/21/OpenAI-GPT-1-Improving-Language-Understanding-by-Generative-Pre-Training/<br>
 GPT 2 : https://jeongukjae.github.io/posts/1-gpt2-revivew/<br>
 
-
-
 ### 1.3.3. ELECTRA
-
-
-
-
 
 
 #### Awesome Korean NLP

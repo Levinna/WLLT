@@ -17,6 +17,9 @@ https://wikidocs.net/book/2159
 ### How to code The Transformer in Pytorch
 https://towardsdatascience.com/how-to-code-the-transformer-in-pytorch-24db27c8f9ec#b0ed
 
+### Annotated Transformer (Harvard NLP)
+https://nlp.seas.harvard.edu/2018/04/03/attention.html
+
 ### Attention Mechanism and Transformer
 https://medium.com/platfarm/%EC%96%B4%ED%85%90%EC%85%98-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98%EA%B3%BC-transfomer-self-attention-842498fd3225
 
