@@ -14,6 +14,9 @@ https://wikidocs.net/book/2155
 ### 딥러닝을 이용한 자연어 처리 심화
 https://wikidocs.net/book/2159
 
+### PyTorch Fast-Campus
+https://github.com/KimJoonHeeC/PyTorch-FastCampus
+
 ### How to code The Transformer in Pytorch
 https://towardsdatascience.com/how-to-code-the-transformer-in-pytorch-24db27c8f9ec#b0ed
 
