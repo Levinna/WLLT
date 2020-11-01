@@ -5,6 +5,10 @@ http://masatohagiwara.net/100-nlp-papers/
 ### 74 Summaries of Machine Learning and NLP Research
 http://www.marekrei.com/blog/74-summaries-of-machine-learning-and-nlp-research/?fbclid=IwAR3HvOjznVuGGaxHltgkDy61wioOJJcxa-u6RhO24wXH-djd7xYcAUwMRvY
 
+### CS224n
+http://web.stanford.edu/class/cs224n/index.html#schedule
+https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
+
 ### NLP Tutorial
 https://github.com/graykode/nlp-tutorial
 
