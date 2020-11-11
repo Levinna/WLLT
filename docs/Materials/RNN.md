@@ -18,6 +18,9 @@ https://wikidocs.net/book/2155
 ### 딥러닝을 이용한 자연어 처리 심화
 https://wikidocs.net/book/2159
 
+### AwesomeKorean Dataset : 한국어 데이터셋 모음
+https://github.com/songys/AwesomeKorean_Data
+
 ### PyTorch Fast-Campus
 https://github.com/KimJoonHeeC/PyTorch-FastCampus
 
@@ -46,3 +49,6 @@ https://wikidocs.net/book/2788
 https://heiwais25.github.io/nlp/2019/10/06/Language-model-1/ <br>
 https://heiwais25.github.io/nlp/2019/10/06/Language-model-2/ <br>
 https://heiwais25.github.io/nlp/2019/10/13/Language-model-3/
+
+### 2020년 흥미로운 자연어 관련 링크
+https://github.com/songys/2020_nlp_news

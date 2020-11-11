@@ -57,3 +57,6 @@ https://opentutorials.org/module/3653
 
 ## 기초 강의 유튜브
 https://www.youtube.com/user/TheEasyoung/videos
+
+## 자료모음
+https://ai-information.blogspot.com/2019/02/blog-post_22.html

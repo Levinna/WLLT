@@ -18,3 +18,6 @@ Pytorch Lecture : https://www.youtube.com/watch?v=SKq-pmkekTk
 
 # Dive into deep Learning
 Learn with code : http://d2l.ai/index.html
+
+### Deep Learning Implementations
+https://github.com/rasbt/deeplearning-models
