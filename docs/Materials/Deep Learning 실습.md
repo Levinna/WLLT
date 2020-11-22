@@ -21,3 +21,6 @@ Learn with code : http://d2l.ai/index.html
 
 ### Deep Learning Implementations
 https://github.com/rasbt/deeplearning-models
+
+### 딥러닝 홀로서기
+https://www.youtube.com/playlist?list=PLSAJwo7mw8jn8iaXwT4MqLbZnS-LJwnBd
